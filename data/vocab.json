@@ -1,0 +1,2353 @@
+{
+  "student": "Antonia",
+  "action": {
+    "subjects": [
+      {
+        "kr": "저는",
+        "rom": "JEO-NEUN",
+        "en": "I"
+      }
+    ],
+    "times": [
+      {
+        "kr": "여섯",
+        "rom": "YEO-?",
+        "en": "Six o'clock",
+        "tense": "present"
+      },
+      {
+        "kr": "여덟",
+        "rom": "YEO-?",
+        "en": "Eight o'clock",
+        "tense": "present"
+      },
+      {
+        "kr": "시",
+        "rom": "SI",
+        "en": "Six o'clock",
+        "tense": "present"
+      },
+      {
+        "kr": "알고 싶어요",
+        "rom": "?-GO- -?-EO-YO",
+        "en": "I want to know",
+        "tense": "present"
+      },
+      {
+        "kr": "다섯 시에 만나요.",
+        "rom": "DA-?- -SI-?- -?-NA-YO-.",
+        "en": "Let's meet at 5 o'clock.",
+        "tense": "present"
+      },
+      {
+        "kr": "아침",
+        "rom": "A-?",
+        "en": "morning",
+        "tense": "past"
+      },
+      {
+        "kr": "저녁",
+        "rom": "JEO-?",
+        "en": "evening / dinner",
+        "tense": "past"
+      },
+      {
+        "kr": "밤",
+        "rom": "BAM",
+        "en": "night",
+        "tense": "past"
+      },
+      {
+        "kr": "오늘",
+        "rom": "O-?",
+        "en": "today",
+        "tense": "present"
+      },
+      {
+        "kr": "내일",
+        "rom": "NAE-?",
+        "en": "tomorrow",
+        "tense": "future"
+      },
+      {
+        "kr": "주말",
+        "rom": "JU-MAL",
+        "en": "weekend",
+        "tense": "present"
+      },
+      {
+        "kr": "평일",
+        "rom": "?-?",
+        "en": "weekday",
+        "tense": "present"
+      },
+      {
+        "kr": "매일",
+        "rom": "MAE-?",
+        "en": "every day",
+        "tense": "present"
+      },
+      {
+        "kr": "저는 7시에 일어나요.",
+        "rom": "JEO-?- -7-SI-?- -?-EO-NA-YO-.",
+        "en": "I wake up at 7 o'clock.",
+        "tense": "present"
+      },
+      {
+        "kr": "아침에 운동해요.",
+        "rom": "A-?-?- -UN-DONG-?-YO-.",
+        "en": "I exercise in the morning.",
+        "tense": "past"
+      },
+      {
+        "kr": "내일 한국에 가요.",
+        "rom": "NAE-?- -HAN-GUK-?- -GA-YO-.",
+        "en": "I'm going to Korea tomorrow.",
+        "tense": "future"
+      },
+      {
+        "kr": "오늘 너무 슬퍼요.",
+        "rom": "O-?- -NEO-MU- -?-PEO-YO-.",
+        "en": "I'm so sad today.",
+        "tense": "present"
+      }
+    ],
+    "places": [
+      {
+        "kr": "식당",
+        "rom": "SIK-DANG",
+        "en": "Restaurant",
+        "formE": {
+          "kr": "식당에",
+          "rom": "SIK-DANG-E"
+        },
+        "formEseo": {
+          "kr": "식당에서",
+          "rom": "SIK-DANG-E-SEO"
+        }
+      },
+      {
+        "kr": "가게",
+        "rom": "GA-?",
+        "en": "Store / Shop",
+        "formE": {
+          "kr": "가게에",
+          "rom": "GA-?-E"
+        },
+        "formEseo": {
+          "kr": "가게에서",
+          "rom": "GA-?-E-SEO"
+        }
+      },
+      {
+        "kr": "집에",
+        "rom": "JIP-?",
+        "en": "I'm coming home",
+        "formE": {
+          "kr": "집에에",
+          "rom": "JIP-?-E"
+        },
+        "formEseo": {
+          "kr": "집에에서",
+          "rom": "JIP-?-E-SEO"
+        }
+      },
+      {
+        "kr": "와요",
+        "rom": "?-YO",
+        "en": "I come home",
+        "formE": {
+          "kr": "와요에",
+          "rom": "?-YO-E"
+        },
+        "formEseo": {
+          "kr": "와요에서",
+          "rom": "?-YO-E-SEO"
+        }
+      },
+      {
+        "kr": "어제",
+        "rom": "EO-JE",
+        "en": "Yesterday at Korean restaurant",
+        "formE": {
+          "kr": "어제에",
+          "rom": "EO-JE-E"
+        },
+        "formEseo": {
+          "kr": "어제에서",
+          "rom": "EO-JE-E-SEO"
+        }
+      },
+      {
+        "kr": "카페 있어요",
+        "rom": "KA-PE- -?-EO-YO",
+        "en": "There is a cafe",
+        "formE": {
+          "kr": "카페 있어요에",
+          "rom": "KA-PE- -?-EO-YO-E"
+        },
+        "formEseo": {
+          "kr": "카페 있어요에서",
+          "rom": "KA-PE- -?-EO-YO-E-SEO"
+        }
+      },
+      {
+        "kr": "카페에 있어요",
+        "rom": "KA-PE-?- -?-EO-YO",
+        "en": "I am at the cafe",
+        "formE": {
+          "kr": "카페에 있어요에",
+          "rom": "KA-PE-?- -?-EO-YO-E"
+        },
+        "formEseo": {
+          "kr": "카페에 있어요에서",
+          "rom": "KA-PE-?- -?-EO-YO-E-SEO"
+        }
+      },
+      {
+        "kr": "저기 카페가 있어요.",
+        "rom": "JEO-GI- -KA-PE-GA- -?-EO-YO-.",
+        "en": "There's a cafe over there.",
+        "formE": {
+          "kr": "저기 카페가 있어요.에",
+          "rom": "JEO-GI- -KA-PE-GA- -?-EO-YO-.-E"
+        },
+        "formEseo": {
+          "kr": "저기 카페가 있어요.에서",
+          "rom": "JEO-GI- -KA-PE-GA- -?-EO-YO-.-E-SEO"
+        }
+      },
+      {
+        "kr": "화장실이 어디예요?",
+        "rom": "?-JANG-?-I- -EO-DI-YE-YO-?",
+        "en": "Where is the bathroom?",
+        "formE": {
+          "kr": "화장실이 어디예요?에",
+          "rom": "?-JANG-?-I- -EO-DI-YE-YO-?-E"
+        },
+        "formEseo": {
+          "kr": "화장실이 어디예요?에서",
+          "rom": "?-JANG-?-I- -EO-DI-YE-YO-?-E-SEO"
+        }
+      },
+      {
+        "kr": "카페가 어디예요?",
+        "rom": "KA-PE-GA- -EO-DI-YE-YO-?",
+        "en": "Where is the cafe?",
+        "formE": {
+          "kr": "카페가 어디예요?에",
+          "rom": "KA-PE-GA- -EO-DI-YE-YO-?-E"
+        },
+        "formEseo": {
+          "kr": "카페가 어디예요?에서",
+          "rom": "KA-PE-GA- -EO-DI-YE-YO-?-E-SEO"
+        }
+      },
+      {
+        "kr": "카페에 가요.",
+        "rom": "KA-PE-?- -GA-YO-.",
+        "en": "I'm going to the cafe.",
+        "formE": {
+          "kr": "카페에 가요.에",
+          "rom": "KA-PE-?- -GA-YO-.-E"
+        },
+        "formEseo": {
+          "kr": "카페에 가요.에서",
+          "rom": "KA-PE-?- -GA-YO-.-E-SEO"
+        }
+      },
+      {
+        "kr": "집에 와요.",
+        "rom": "JIP-?- -?-YO-.",
+        "en": "Come to my house.",
+        "formE": {
+          "kr": "집에 와요.에",
+          "rom": "JIP-?- -?-YO-.-E"
+        },
+        "formEseo": {
+          "kr": "집에 와요.에서",
+          "rom": "JIP-?- -?-YO-.-E-SEO"
+        }
+      },
+      {
+        "kr": "회사",
+        "rom": "?-SA",
+        "en": "company / office",
+        "formE": {
+          "kr": "회사에",
+          "rom": "?-SA-E"
+        },
+        "formEseo": {
+          "kr": "회사에서",
+          "rom": "?-SA-E-SEO"
+        }
+      },
+      {
+        "kr": "집",
+        "rom": "JIP",
+        "en": "home / house",
+        "formE": {
+          "kr": "집에",
+          "rom": "JIP-E"
+        },
+        "formEseo": {
+          "kr": "집에서",
+          "rom": "JIP-E-SEO"
+        }
+      },
+      {
+        "kr": "공원",
+        "rom": "GONG-WON",
+        "en": "park",
+        "formE": {
+          "kr": "공원에",
+          "rom": "GONG-WON-E"
+        },
+        "formEseo": {
+          "kr": "공원에서",
+          "rom": "GONG-WON-E-SEO"
+        }
+      },
+      {
+        "kr": "회사에 가요.",
+        "rom": "?-SA-?- -GA-YO-.",
+        "en": "I go to the office.",
+        "formE": {
+          "kr": "회사에 가요.에",
+          "rom": "?-SA-?- -GA-YO-.-E"
+        },
+        "formEseo": {
+          "kr": "회사에 가요.에서",
+          "rom": "?-SA-?- -GA-YO-.-E-SEO"
+        }
+      },
+      {
+        "kr": "저는 회사에서 일해요.",
+        "rom": "JEO-?- -?-SA-?-SEO- -?-?-YO-.",
+        "en": "I work at the office.",
+        "formE": {
+          "kr": "저는 회사에서 일해요.에",
+          "rom": "JEO-?- -?-SA-?-SEO- -?-?-YO-.-E"
+        },
+        "formEseo": {
+          "kr": "저는 회사에서 일해요.에서",
+          "rom": "JEO-?- -?-SA-?-SEO- -?-?-YO-.-E-SEO"
+        }
+      },
+      {
+        "kr": "집에서 쉬어요.",
+        "rom": "JIP-?-SEO- -?-EO-YO-.",
+        "en": "I rest at home.",
+        "formE": {
+          "kr": "집에서 쉬어요.에",
+          "rom": "JIP-?-SEO- -?-EO-YO-.-E"
+        },
+        "formEseo": {
+          "kr": "집에서 쉬어요.에서",
+          "rom": "JIP-?-SEO- -?-EO-YO-.-E-SEO"
+        }
+      },
+      {
+        "kr": "공원에서 걸어요.",
+        "rom": "GONG-WON-?-SEO- -?-EO-YO-.",
+        "en": "I walk in the park.",
+        "formE": {
+          "kr": "공원에서 걸어요.에",
+          "rom": "GONG-WON-?-SEO- -?-EO-YO-.-E"
+        },
+        "formEseo": {
+          "kr": "공원에서 걸어요.에서",
+          "rom": "GONG-WON-?-SEO- -?-EO-YO-.-E-SEO"
+        }
+      },
+      {
+        "kr": "카페에서 친구를 만나요.",
+        "rom": "KA-PE-?-SEO- -CHIN-GU-?- -?-NA-YO-.",
+        "en": "I meet my friend at the cafe.",
+        "formE": {
+          "kr": "카페에서 친구를 만나요.에",
+          "rom": "KA-PE-?-SEO- -CHIN-GU-?- -?-NA-YO-.-E"
+        },
+        "formEseo": {
+          "kr": "카페에서 친구를 만나요.에서",
+          "rom": "KA-PE-?-SEO- -CHIN-GU-?- -?-NA-YO-.-E-SEO"
+        }
+      },
+      {
+        "kr": "회사에 가요. 그리고 일해요.",
+        "rom": "?-SA-?- -GA-YO-.- -GEU-RI-GO- -?-?-YO-.",
+        "en": "I go to the office. And then I work.",
+        "formE": {
+          "kr": "회사에 가요. 그리고 일해요.에",
+          "rom": "?-SA-?- -GA-YO-.- -GEU-RI-GO- -?-?-YO-.-E"
+        },
+        "formEseo": {
+          "kr": "회사에 가요. 그리고 일해요.에서",
+          "rom": "?-SA-?- -GA-YO-.- -GEU-RI-GO- -?-?-YO-.-E-SEO"
+        }
+      },
+      {
+        "kr": "비가 와요. 하지만 공원에 가요.",
+        "rom": "BI-GA- -?-YO-.- -HA-JI-?- -GONG-WON-?- -GA-YO-.",
+        "en": "It's raining. But I go to the park.",
+        "formE": {
+          "kr": "비가 와요. 하지만 공원에 가요.에",
+          "rom": "BI-GA- -?-YO-.- -HA-JI-?- -GONG-WON-?- -GA-YO-.-E"
+        },
+        "formEseo": {
+          "kr": "비가 와요. 하지만 공원에 가요.에서",
+          "rom": "BI-GA- -?-YO-.- -HA-JI-?- -GONG-WON-?- -GA-YO-.-E-SEO"
+        }
+      }
+    ],
+    "objects": [
+      {
+        "kr": "이거",
+        "rom": "I-GEO",
+        "en": "This (thing)",
+        "category": "general"
+      },
+      {
+        "kr": "저거",
+        "rom": "JEO-GEO",
+        "en": "That (thing)",
+        "category": "general"
+      },
+      {
+        "kr": "뭐",
+        "rom": "MWEO",
+        "en": "What",
+        "category": "general"
+      },
+      {
+        "kr": "예요",
+        "rom": "YE-YO",
+        "en": "Is/am/are (be verb)",
+        "category": "general"
+      },
+      {
+        "kr": "나",
+        "rom": "NA",
+        "en": "I/me (casual)",
+        "category": "general"
+      },
+      {
+        "kr": "하나",
+        "rom": "HA-NA",
+        "en": "One",
+        "category": "general"
+      },
+      {
+        "kr": "만두",
+        "rom": "?-DU",
+        "en": "Dumplings",
+        "category": "food"
+      },
+      {
+        "kr": "물",
+        "rom": "MUL",
+        "en": "Water",
+        "category": "drink"
+      },
+      {
+        "kr": "메뉴판",
+        "rom": "ME-NYU-?",
+        "en": "Menu board",
+        "category": "general"
+      },
+      {
+        "kr": "김치",
+        "rom": "GIM-CHI",
+        "en": "Kimchi",
+        "category": "food"
+      },
+      {
+        "kr": "공부",
+        "rom": "GONG-BU",
+        "en": "Study",
+        "category": "general"
+      },
+      {
+        "kr": "이해",
+        "rom": "I-?",
+        "en": "Understanding",
+        "category": "general"
+      },
+      {
+        "kr": "다음에",
+        "rom": "DA-EUM-?",
+        "en": "Next time",
+        "category": "general"
+      },
+      {
+        "kr": "봐요",
+        "rom": "?-YO",
+        "en": "See (polite)",
+        "category": "general"
+      },
+      {
+        "kr": "다음에 봐요",
+        "rom": "DA-EUM-?- -?-YO",
+        "en": "See you next time",
+        "category": "general"
+      },
+      {
+        "kr": "감사합니다",
+        "rom": "?-SA-?-NI-DA",
+        "en": "Thank you",
+        "category": "general"
+      },
+      {
+        "kr": "매워요",
+        "rom": "MAE-WO-YO",
+        "en": "Spicy / To be spicy",
+        "category": "general"
+      },
+      {
+        "kr": "맛있어요",
+        "rom": "?-?-EO-YO",
+        "en": "Delicious / To be delicious",
+        "category": "general"
+      },
+      {
+        "kr": "간단해요",
+        "rom": "?-?-?-YO",
+        "en": "Simple / To be simple",
+        "category": "general"
+      },
+      {
+        "kr": "메뉴를 보고 싶어요",
+        "rom": "ME-NYU-?- -BO-GO- -?-EO-YO",
+        "en": "I want to see the menu",
+        "category": "general"
+      },
+      {
+        "kr": "물을 마시고 싶어요",
+        "rom": "MUL-?- -MA-SI-GO- -?-EO-YO",
+        "en": "I want to drink water",
+        "category": "drink"
+      },
+      {
+        "kr": "가격을 알고 싶어요",
+        "rom": "GA-?-?- -?-GO- -?-EO-YO",
+        "en": "I want to know the price",
+        "category": "food"
+      },
+      {
+        "kr": "들어가요",
+        "rom": "?-EO-GA-YO",
+        "en": "Enter / Go in",
+        "category": "general"
+      },
+      {
+        "kr": "보아요** / **봐요",
+        "rom": "BO-A-YO-*-*- -/- -*-*-?-YO",
+        "en": "See / Look / Watch",
+        "category": "general"
+      },
+      {
+        "kr": "물어봐요",
+        "rom": "MUL-EO-?-YO",
+        "en": "Ask",
+        "category": "general"
+      },
+      {
+        "kr": "대답해요",
+        "rom": "DAE-?-?-YO",
+        "en": "Answer / Reply",
+        "category": "general"
+      },
+      {
+        "kr": "주문해요",
+        "rom": "JU-?-?-YO",
+        "en": "Order",
+        "category": "general"
+      },
+      {
+        "kr": "나와요",
+        "rom": "NA-?-YO",
+        "en": "Come out",
+        "category": "general"
+      },
+      {
+        "kr": "이해해요",
+        "rom": "I-?-?-YO",
+        "en": "Understand",
+        "category": "general"
+      },
+      {
+        "kr": "이렇게",
+        "rom": "I-?-?",
+        "en": "Like this / In this way",
+        "category": "general"
+      },
+      {
+        "kr": "어떻게",
+        "rom": "EO-?-?",
+        "en": "How",
+        "category": "general"
+      },
+      {
+        "kr": "또는",
+        "rom": "?-?",
+        "en": "Or",
+        "category": "general"
+      },
+      {
+        "kr": "손님",
+        "rom": "?-?",
+        "en": "Customer / Guest",
+        "category": "general"
+      },
+      {
+        "kr": "직원",
+        "rom": "?-WON",
+        "en": "Staff / Employee",
+        "category": "general"
+      },
+      {
+        "kr": "음식",
+        "rom": "EUM-SIK",
+        "en": "Food",
+        "category": "food"
+      },
+      {
+        "kr": "가격",
+        "rom": "GA-?",
+        "en": "Price",
+        "category": "food"
+      },
+      {
+        "kr": "문장",
+        "rom": "?-JANG",
+        "en": "Sentence",
+        "category": "general"
+      },
+      {
+        "kr": "야채",
+        "rom": "YA-?",
+        "en": "Vegetables",
+        "category": "food"
+      },
+      {
+        "kr": "교실",
+        "rom": "GYO-?",
+        "en": "Classroom",
+        "category": "general"
+      },
+      {
+        "kr": "여기",
+        "rom": "YEO-GI",
+        "en": "Here",
+        "category": "general"
+      },
+      {
+        "kr": "유리",
+        "rom": "YU-RI",
+        "en": "Glass",
+        "category": "general"
+      },
+      {
+        "kr": "이렇게 말해요",
+        "rom": "I-?-?- -MAL-?-YO",
+        "en": "Say like this",
+        "category": "general"
+      },
+      {
+        "kr": "직원이 이해해요",
+        "rom": "?-WON-I- -I-?-?-YO",
+        "en": "The staff understands",
+        "category": "general"
+      },
+      {
+        "kr": "간단한 문장이에요",
+        "rom": "?-?-HAN- -?-JANG-I-?-YO",
+        "en": "It is a simple sentence",
+        "category": "general"
+      },
+      {
+        "kr": "커피가",
+        "rom": "KEO-PI-GA",
+        "en": "Coffee is delicious",
+        "category": "drink"
+      },
+      {
+        "kr": "커피를",
+        "rom": "KEO-PI-?",
+        "en": "I drink coffee",
+        "category": "drink"
+      },
+      {
+        "kr": "물을",
+        "rom": "MUL-?",
+        "en": "I drink water",
+        "category": "drink"
+      },
+      {
+        "kr": "김치가",
+        "rom": "GIM-CHI-GA",
+        "en": "Kimchi is delicious",
+        "category": "food"
+      },
+      {
+        "kr": "김치를",
+        "rom": "GIM-CHI-?",
+        "en": "Please give me kimchi",
+        "category": "food"
+      },
+      {
+        "kr": "어디에",
+        "rom": "EO-DI-?",
+        "en": "Where are you going?",
+        "category": "general"
+      },
+      {
+        "kr": "한국에",
+        "rom": "HAN-GUK-?",
+        "en": "I'm going to Korea",
+        "category": "general"
+      },
+      {
+        "kr": "떡볶이",
+        "rom": "DDEOK-BOKK-I",
+        "en": "Tteokbokki is spicy",
+        "category": "general"
+      },
+      {
+        "kr": "비빔밥",
+        "rom": "BI-?-BAP",
+        "en": "Bibimbap is delicious",
+        "category": "general"
+      },
+      {
+        "kr": "짜요",
+        "rom": "?-YO",
+        "en": "Soup is salty",
+        "category": "food"
+      },
+      {
+        "kr": "싸요",
+        "rom": "?-YO",
+        "en": "This is cheap",
+        "category": "general"
+      },
+      {
+        "kr": "비싸요",
+        "rom": "BI-?-YO",
+        "en": "Coffee is expensive",
+        "category": "drink"
+      },
+      {
+        "kr": "달아요",
+        "rom": "DAL-A-YO",
+        "en": "Coffee is sweet",
+        "category": "drink"
+      },
+      {
+        "kr": "사과가",
+        "rom": "SA-?-GA",
+        "en": "Apple is red",
+        "category": "general"
+      },
+      {
+        "kr": "빨개요",
+        "rom": "?-GAE-YO",
+        "en": "Apple is red",
+        "category": "general"
+      },
+      {
+        "kr": "국이",
+        "rom": "GUK-I",
+        "en": "Soup is salty",
+        "category": "food"
+      },
+      {
+        "kr": "쿠키가",
+        "rom": "KU-KI-GA",
+        "en": "Cookie is sweet",
+        "category": "general"
+      },
+      {
+        "kr": "빵이",
+        "rom": "PPANG-I",
+        "en": "Bread is delicious",
+        "category": "food"
+      },
+      {
+        "kr": "많았어요",
+        "rom": "?-?-EO-YO",
+        "en": "There were many people",
+        "category": "general"
+      },
+      {
+        "kr": "사람들이",
+        "rom": "SA-?-?-I",
+        "en": "There were many people",
+        "category": "general"
+      },
+      {
+        "kr": "세",
+        "rom": "SE",
+        "en": "Three coffees please",
+        "category": "drink"
+      },
+      {
+        "kr": "개",
+        "rom": "GAE",
+        "en": "Three coffees",
+        "category": "drink"
+      },
+      {
+        "kr": "안",
+        "rom": "AN",
+        "en": "not (negation particle)",
+        "category": "general"
+      },
+      {
+        "kr": "먹고 싶어요",
+        "rom": "?-GO- -?-EO-YO",
+        "en": "I want to eat",
+        "category": "general"
+      },
+      {
+        "kr": "마시고 싶어요",
+        "rom": "MA-SI-GO- -?-EO-YO",
+        "en": "I want to drink",
+        "category": "drink"
+      },
+      {
+        "kr": "보고 싶어요",
+        "rom": "BO-GO- -?-EO-YO",
+        "en": "I want to see / look at",
+        "category": "general"
+      },
+      {
+        "kr": "네",
+        "rom": "NE",
+        "en": "yes (polite)",
+        "category": "general"
+      },
+      {
+        "kr": "아니요",
+        "rom": "A-NI-YO",
+        "en": "no (polite)",
+        "category": "general"
+      },
+      {
+        "kr": "아니",
+        "rom": "A-NI",
+        "en": "no (bare/rude form)",
+        "category": "general"
+      },
+      {
+        "kr": "죄",
+        "rom": "?",
+        "en": "sin, guilt — root of 죄송",
+        "category": "general"
+      },
+      {
+        "kr": "송",
+        "rom": "?",
+        "en": "humility / bowing — component of 죄송",
+        "category": "general"
+      },
+      {
+        "kr": "죄송합니다",
+        "rom": "?-?-?-NI-DA",
+        "en": "I am deeply sorry (formal/humble)",
+        "category": "general"
+      },
+      {
+        "kr": "미안해요",
+        "rom": "MI-AN-?-YO",
+        "en": "I am sorry (everyday polite)",
+        "category": "general"
+      },
+      {
+        "kr": "하지만",
+        "rom": "HA-JI-?",
+        "en": "but, however",
+        "category": "general"
+      },
+      {
+        "kr": "사람들",
+        "rom": "SA-?-?",
+        "en": "people (plural)",
+        "category": "general"
+      },
+      {
+        "kr": "정말",
+        "rom": "?-MAL",
+        "en": "really, truly",
+        "category": "general"
+      },
+      {
+        "kr": "뭐라고 말해요",
+        "rom": "MWEO-RA-GO- -MAL-?-YO",
+        "en": "what do you say?",
+        "category": "general"
+      },
+      {
+        "kr": "라고 말해요",
+        "rom": "RA-GO- -MAL-?-YO",
+        "en": "say [quote] / say like this",
+        "category": "general"
+      },
+      {
+        "kr": "돈 있어요",
+        "rom": "?- -?-EO-YO",
+        "en": "I have money",
+        "category": "general"
+      },
+      {
+        "kr": "거기",
+        "rom": "GEO-GI",
+        "en": "there",
+        "category": "general"
+      },
+      {
+        "kr": "저기",
+        "rom": "JEO-GI",
+        "en": "over there",
+        "category": "general"
+      },
+      {
+        "kr": "위",
+        "rom": "WI",
+        "en": "above / up",
+        "category": "general"
+      },
+      {
+        "kr": "아래",
+        "rom": "A-RAE",
+        "en": "below / down",
+        "category": "general"
+      },
+      {
+        "kr": "밖",
+        "rom": "BAK",
+        "en": "outside",
+        "category": "general"
+      },
+      {
+        "kr": "마셔요",
+        "rom": "MA-?-YO",
+        "en": "drink (present)",
+        "category": "drink"
+      },
+      {
+        "kr": "도",
+        "rom": "DO",
+        "en": "also / too (particle)",
+        "category": "general"
+      },
+      {
+        "kr": "얼마",
+        "rom": "EOL-MA",
+        "en": "how much",
+        "category": "general"
+      },
+      {
+        "kr": "커피",
+        "rom": "KEO-PI",
+        "en": "coffee",
+        "category": "drink"
+      },
+      {
+        "kr": "김밥",
+        "rom": "GIM-BAP",
+        "en": "gimbap (rice roll)",
+        "category": "food"
+      },
+      {
+        "kr": "라면",
+        "rom": "RA-?",
+        "en": "ramyeon (instant noodles)",
+        "category": "food"
+      },
+      {
+        "kr": "한 잔",
+        "rom": "HAN- -?",
+        "en": "one glass/cup",
+        "category": "general"
+      },
+      {
+        "kr": "이거 주세요.",
+        "rom": "I-GEO- -JU-SE-YO-.",
+        "en": "This, please.",
+        "category": "general"
+      },
+      {
+        "kr": "저거 주세요.",
+        "rom": "JEO-GEO- -JU-SE-YO-.",
+        "en": "That, please.",
+        "category": "general"
+      },
+      {
+        "kr": "메뉴판 주세요.",
+        "rom": "ME-NYU-?- -JU-SE-YO-.",
+        "en": "Menu, please.",
+        "category": "general"
+      },
+      {
+        "kr": "물 주세요.",
+        "rom": "MUL- -JU-SE-YO-.",
+        "en": "Water, please.",
+        "category": "drink"
+      },
+      {
+        "kr": "커피 주세요.",
+        "rom": "KEO-PI- -JU-SE-YO-.",
+        "en": "Coffee, please.",
+        "category": "drink"
+      },
+      {
+        "kr": "커피 있어요?",
+        "rom": "KEO-PI- -?-EO-YO-?",
+        "en": "Do you have coffee?",
+        "category": "drink"
+      },
+      {
+        "kr": "김밥 있어요?",
+        "rom": "GIM-BAP- -?-EO-YO-?",
+        "en": "Do you have gimbap?",
+        "category": "general"
+      },
+      {
+        "kr": "떡볶이 있어요?",
+        "rom": "DDEOK-BOKK-I- -?-EO-YO-?",
+        "en": "Do you have tteokbokki?",
+        "category": "general"
+      },
+      {
+        "kr": "라면 있어요?",
+        "rom": "RA-?- -?-EO-YO-?",
+        "en": "Do you have ramyeon?",
+        "category": "general"
+      },
+      {
+        "kr": "만두 있어요?",
+        "rom": "?-DU- -?-EO-YO-?",
+        "en": "Do you have mandu?",
+        "category": "general"
+      },
+      {
+        "kr": "김밥 하나 주세요.",
+        "rom": "GIM-BAP- -HA-NA- -JU-SE-YO-.",
+        "en": "One gimbap, please.",
+        "category": "general"
+      },
+      {
+        "kr": "비빔밥 하나 주세요.",
+        "rom": "BI-?-BAP- -HA-NA- -JU-SE-YO-.",
+        "en": "One bibimbap, please.",
+        "category": "general"
+      },
+      {
+        "kr": "물 한 잔 주세요.",
+        "rom": "MUL- -HAN- -?- -JU-SE-YO-.",
+        "en": "One glass of water, please.",
+        "category": "drink"
+      },
+      {
+        "kr": "커피 한 잔 주세요.",
+        "rom": "KEO-PI- -HAN- -?- -JU-SE-YO-.",
+        "en": "One cup of coffee, please.",
+        "category": "drink"
+      },
+      {
+        "kr": "이거 뭐예요?",
+        "rom": "I-GEO- -MWEO-YE-YO-?",
+        "en": "What is this?",
+        "category": "general"
+      },
+      {
+        "kr": "저거 뭐예요?",
+        "rom": "JEO-GEO- -MWEO-YE-YO-?",
+        "en": "What is that?",
+        "category": "general"
+      },
+      {
+        "kr": "이거 얼마예요?",
+        "rom": "I-GEO- -EOL-MA-YE-YO-?",
+        "en": "How much is this?",
+        "category": "general"
+      },
+      {
+        "kr": "저거 얼마예요?",
+        "rom": "JEO-GEO- -EOL-MA-YE-YO-?",
+        "en": "How much is that?",
+        "category": "general"
+      },
+      {
+        "kr": "김밥 얼마예요?",
+        "rom": "GIM-BAP- -EOL-MA-YE-YO-?",
+        "en": "How much is gimbap?",
+        "category": "general"
+      },
+      {
+        "kr": "비빔밥 얼마예요?",
+        "rom": "BI-?-BAP- -EOL-MA-YE-YO-?",
+        "en": "How much is bibimbap?",
+        "category": "general"
+      },
+      {
+        "kr": "김치 없어요.",
+        "rom": "GIM-CHI- -?-EO-YO-.",
+        "en": "[We] don't have kimchi.",
+        "category": "food"
+      },
+      {
+        "kr": "커피 없어요.",
+        "rom": "KEO-PI- -?-EO-YO-.",
+        "en": "[We] don't have coffee.",
+        "category": "drink"
+      },
+      {
+        "kr": "라면 없어요.",
+        "rom": "RA-?- -?-EO-YO-.",
+        "en": "[We] don't have ramyeon.",
+        "category": "general"
+      },
+      {
+        "kr": "둘",
+        "rom": "?",
+        "en": "two",
+        "category": "general"
+      },
+      {
+        "kr": "셋",
+        "rom": "?",
+        "en": "three",
+        "category": "general"
+      },
+      {
+        "kr": "넷",
+        "rom": "?",
+        "en": "four",
+        "category": "general"
+      },
+      {
+        "kr": "다섯",
+        "rom": "DA-?",
+        "en": "five",
+        "category": "general"
+      },
+      {
+        "kr": "일곱",
+        "rom": "?-?",
+        "en": "seven",
+        "category": "general"
+      },
+      {
+        "kr": "아홉",
+        "rom": "A-?",
+        "en": "nine",
+        "category": "general"
+      },
+      {
+        "kr": "열",
+        "rom": "?",
+        "en": "ten",
+        "category": "general"
+      },
+      {
+        "kr": "어디",
+        "rom": "EO-DI",
+        "en": "where",
+        "category": "general"
+      },
+      {
+        "kr": "밥",
+        "rom": "BAP",
+        "en": "rice, meal",
+        "category": "food"
+      },
+      {
+        "kr": "국",
+        "rom": "GUK",
+        "en": "soup",
+        "category": "food"
+      },
+      {
+        "kr": "빵",
+        "rom": "PPANG",
+        "en": "bread",
+        "category": "food"
+      },
+      {
+        "kr": "우유",
+        "rom": "U-YU",
+        "en": "milk",
+        "category": "drink"
+      },
+      {
+        "kr": "차",
+        "rom": "CHA",
+        "en": "tea",
+        "category": "drink"
+      },
+      {
+        "kr": "주스",
+        "rom": "JU-SEU",
+        "en": "juice",
+        "category": "drink"
+      },
+      {
+        "kr": "맛없어요",
+        "rom": "?-?-EO-YO",
+        "en": "not delicious",
+        "category": "general"
+      },
+      {
+        "kr": "커피 하나 주세요.",
+        "rom": "KEO-PI- -HA-NA- -JU-SE-YO-.",
+        "en": "One coffee, please.",
+        "category": "drink"
+      },
+      {
+        "kr": "사과 둘 있어요?",
+        "rom": "SA-?- -?- -?-EO-YO-?",
+        "en": "Do you have two apples?",
+        "category": "general"
+      },
+      {
+        "kr": "만두 셋 주세요.",
+        "rom": "?-DU- -?- -JU-SE-YO-.",
+        "en": "Three dumplings, please.",
+        "category": "food"
+      },
+      {
+        "kr": "의자가 넷 있어요.",
+        "rom": "UI-JA-GA- -?- -?-EO-YO-.",
+        "en": "There are four chairs.",
+        "category": "general"
+      },
+      {
+        "kr": "여기 앉으세요.",
+        "rom": "YEO-GI- -?-EU-SE-YO-.",
+        "en": "Please sit here.",
+        "category": "general"
+      },
+      {
+        "kr": "거기 뭐 있어요?",
+        "rom": "GEO-GI- -MWEO- -?-EO-YO-?",
+        "en": "What is there?",
+        "category": "general"
+      },
+      {
+        "kr": "여기 좋아요.",
+        "rom": "YEO-GI- -?-A-YO-.",
+        "en": "I like it here. / This place is good.",
+        "category": "general"
+      },
+      {
+        "kr": "거기 가요.",
+        "rom": "GEO-GI- -GA-YO-.",
+        "en": "I'm going there.",
+        "category": "general"
+      },
+      {
+        "kr": "메뉴판이 어디 있어요?",
+        "rom": "ME-NYU-?-I- -EO-DI- -?-EO-YO-?",
+        "en": "Where is the menu?",
+        "category": "general"
+      },
+      {
+        "kr": "어디 가요?",
+        "rom": "EO-DI- -GA-YO-?",
+        "en": "Where are you going?",
+        "category": "general"
+      },
+      {
+        "kr": "친구가 어디 있어요?",
+        "rom": "CHIN-GU-GA- -EO-DI- -?-EO-YO-?",
+        "en": "Where is your friend?",
+        "category": "general"
+      },
+      {
+        "kr": "이 음식이 맛있어요.",
+        "rom": "I- -EUM-SIK-I- -?-?-EO-YO-.",
+        "en": "This food is delicious.",
+        "category": "food"
+      },
+      {
+        "kr": "김치가 맛있어요?",
+        "rom": "GIM-CHI-GA- -?-?-EO-YO-?",
+        "en": "Is kimchi tasty?",
+        "category": "food"
+      },
+      {
+        "kr": "떡볶이가 맛없어요.",
+        "rom": "DDEOK-BOKK-I-GA- -?-?-EO-YO-.",
+        "en": "Tteokbokki is not delicious.",
+        "category": "general"
+      },
+      {
+        "kr": "한국 음식이 맛있어요.",
+        "rom": "HAN-GUK- -EUM-SIK-I- -?-?-EO-YO-.",
+        "en": "Korean food is delicious.",
+        "category": "food"
+      },
+      {
+        "kr": "빵이 맛있어요.",
+        "rom": "PPANG-I- -?-?-EO-YO-.",
+        "en": "The bread is delicious.",
+        "category": "food"
+      },
+      {
+        "kr": "이거 매워요?",
+        "rom": "I-GEO- -MAE-WO-YO-?",
+        "en": "Is this spicy?",
+        "category": "general"
+      },
+      {
+        "kr": "떡볶이가 매워요.",
+        "rom": "DDEOK-BOKK-I-GA- -MAE-WO-YO-.",
+        "en": "Tteokbokki is spicy.",
+        "category": "general"
+      },
+      {
+        "kr": "빵이 달아요.",
+        "rom": "PPANG-I- -DAL-A-YO-.",
+        "en": "The bread is sweet.",
+        "category": "food"
+      },
+      {
+        "kr": "국이 짜요.",
+        "rom": "GUK-I- -?-YO-.",
+        "en": "The soup is salty.",
+        "category": "food"
+      },
+      {
+        "kr": "커피가 달아요.",
+        "rom": "KEO-PI-GA- -DAL-A-YO-.",
+        "en": "The coffee is sweet.",
+        "category": "drink"
+      },
+      {
+        "kr": "밥을 먹어요.",
+        "rom": "BAP-?- -?-EO-YO-.",
+        "en": "I eat rice. / I'm eating.",
+        "category": "food"
+      },
+      {
+        "kr": "물을 마셔요.",
+        "rom": "MUL-?- -MA-?-YO-.",
+        "en": "I drink water. / I'm drinking.",
+        "category": "drink"
+      },
+      {
+        "kr": "뭐 먹어요?",
+        "rom": "MWEO- -?-EO-YO-?",
+        "en": "What are you eating?",
+        "category": "general"
+      },
+      {
+        "kr": "커피를 마셔요?",
+        "rom": "KEO-PI-?- -MA-?-YO-?",
+        "en": "Are you drinking coffee?",
+        "category": "drink"
+      },
+      {
+        "kr": "김치를 먹어요.",
+        "rom": "GIM-CHI-?- -?-EO-YO-.",
+        "en": "I'm eating kimchi.",
+        "category": "food"
+      },
+      {
+        "kr": "친구가 와요.",
+        "rom": "CHIN-GU-GA- -?-YO-.",
+        "en": "My friend is coming.",
+        "category": "general"
+      },
+      {
+        "kr": "한국에 가요.",
+        "rom": "HAN-GUK-?- -GA-YO-.",
+        "en": "I'm going to Korea.",
+        "category": "general"
+      },
+      {
+        "kr": "물이 싸요.",
+        "rom": "MUL-I- -?-YO-.",
+        "en": "Water is cheap.",
+        "category": "drink"
+      },
+      {
+        "kr": "커피가 비싸요.",
+        "rom": "KEO-PI-GA- -BI-?-YO-.",
+        "en": "Coffee is expensive.",
+        "category": "drink"
+      },
+      {
+        "kr": "이거 비싸요?",
+        "rom": "I-GEO- -BI-?-YO-?",
+        "en": "Is this expensive?",
+        "category": "general"
+      },
+      {
+        "kr": "한국 음식이 싸요.",
+        "rom": "HAN-GUK- -EUM-SIK-I- -?-YO-.",
+        "en": "Korean food is cheap.",
+        "category": "food"
+      },
+      {
+        "kr": "빵이 비싸요.",
+        "rom": "PPANG-I- -BI-?-YO-.",
+        "en": "Bread is expensive.",
+        "category": "food"
+      },
+      {
+        "kr": "점심",
+        "rom": "JEOM-?",
+        "en": "lunch / noon",
+        "category": "general"
+      },
+      {
+        "kr": "음악",
+        "rom": "EUM-AK",
+        "en": "music",
+        "category": "general"
+      },
+      {
+        "kr": "책",
+        "rom": "CHAEK",
+        "en": "book",
+        "category": "general"
+      },
+      {
+        "kr": "친구",
+        "rom": "CHIN-GU",
+        "en": "friend",
+        "category": "general"
+      },
+      {
+        "kr": "얼굴",
+        "rom": "EOL-GUL",
+        "en": "face",
+        "category": "general"
+      },
+      {
+        "kr": "에",
+        "rom": "?",
+        "en": "at / in / on (time/place)",
+        "category": "general"
+      },
+      {
+        "kr": "에서",
+        "rom": "?-SEO",
+        "en": "at / in (location of action)",
+        "category": "general"
+      },
+      {
+        "kr": "하고",
+        "rom": "HA-GO",
+        "en": "and / with",
+        "category": "general"
+      },
+      {
+        "kr": "그리고",
+        "rom": "GEU-RI-GO",
+        "en": "and (then)",
+        "category": "general"
+      },
+      {
+        "kr": "친구하고 영화를 봐요.",
+        "rom": "CHIN-GU-HA-GO- -YEONG-?-?- -?-YO-.",
+        "en": "I watch a movie with my friend.",
+        "category": "general"
+      },
+      {
+        "kr": "커피하고 빵을 먹어요.",
+        "rom": "KEO-PI-HA-GO- -PPANG-?- -?-EO-YO-.",
+        "en": "I eat coffee and bread.",
+        "category": "food"
+      },
+      {
+        "kr": "저는 언니하고 살아요.",
+        "rom": "JEO-?- -?-NI-HA-GO- -SAL-A-YO-.",
+        "en": "I live with my older sister.",
+        "category": "general"
+      },
+      {
+        "kr": "아침에 일어나요. 그리고 커피를 마셔요.",
+        "rom": "A-?-?- -?-EO-NA-YO-.- -GEU-RI-GO- -KEO-PI-?- -MA-?-YO-.",
+        "en": "I wake up in the morning. And then I drink coffee.",
+        "category": "drink"
+      },
+      {
+        "kr": "저녁을 먹어요. 그리고 TV를 봐요.",
+        "rom": "JEO-?-?- -?-EO-YO-.- -GEU-RI-GO- -T-V-?- -?-YO-.",
+        "en": "I eat dinner. And then I watch TV.",
+        "category": "general"
+      },
+      {
+        "kr": "바빠요. 하지만 행복해요.",
+        "rom": "BA-?-YO-.- -HA-JI-?- -?-?-?-YO-.",
+        "en": "I'm busy. But I'm happy.",
+        "category": "general"
+      },
+      {
+        "kr": "한국어는 어려워요. 하지만 재미있어요.",
+        "rom": "HAN-GUK-EO-?- -EO-?-WO-YO-.- -HA-JI-?- -?-MI-?-EO-YO-.",
+        "en": "Korean is difficult. But it's fun.",
+        "category": "general"
+      },
+      {
+        "kr": "일어나고 씻어요.",
+        "rom": "?-EO-NA-GO- -SSIT-EO-YO-.",
+        "en": "I wake up and wash.",
+        "category": "general"
+      },
+      {
+        "kr": "일하고 쉬어요.",
+        "rom": "?-HA-GO- -?-EO-YO-.",
+        "en": "I work and rest.",
+        "category": "general"
+      },
+      {
+        "kr": "친구를 만나고 영화를 봐요.",
+        "rom": "CHIN-GU-?- -?-NA-GO- -YEONG-?-?- -?-YO-.",
+        "en": "I meet my friend and watch a movie.",
+        "category": "general"
+      },
+      {
+        "kr": "아침을 먹고 나서 회사에 가요.",
+        "rom": "A-?-?- -?-GO- -NA-SEO- -?-SA-?- -GA-YO-.",
+        "en": "After eating breakfast, I go to work.",
+        "category": "general"
+      },
+      {
+        "kr": "일하고 나서 피곤해요.",
+        "rom": "?-HA-GO- -NA-SEO- -PI-?-?-YO-.",
+        "en": "After working, I'm tired.",
+        "category": "general"
+      },
+      {
+        "kr": "씻고 나서 자요.",
+        "rom": "SSIT-GO- -NA-SEO- -JA-YO-.",
+        "en": "After washing, I sleep.",
+        "category": "general"
+      },
+      {
+        "kr": "감정",
+        "rom": "?-?",
+        "en": "emotion / feeling",
+        "category": "general"
+      },
+      {
+        "kr": "기분",
+        "rom": "GI-?",
+        "en": "mood",
+        "category": "general"
+      },
+      {
+        "kr": "마음",
+        "rom": "MA-EUM",
+        "en": "heart / mind",
+        "category": "general"
+      },
+      {
+        "kr": "눈물",
+        "rom": "?-MUL",
+        "en": "tears",
+        "category": "drink"
+      },
+      {
+        "kr": "너무",
+        "rom": "NEO-MU",
+        "en": "too / very",
+        "category": "general"
+      },
+      {
+        "kr": "갑자기",
+        "rom": "?-JA-GI",
+        "en": "suddenly",
+        "category": "general"
+      },
+      {
+        "kr": "한국 여행이 설레서 잠을 못 잤어요.",
+        "rom": "HAN-GUK- -YEO-?-I- -?-RE-SEO- -?-?- -?- -?-EO-YO-.",
+        "en": "I was so excited about the Korea trip that I couldn't sleep.",
+        "category": "general"
+      },
+      {
+        "kr": "선물을 받아서 행복해요.",
+        "rom": "?-MUL-?- -?-A-SEO- -?-?-?-YO-.",
+        "en": "I'm happy because I received a gift.",
+        "category": "general"
+      },
+      {
+        "kr": "혼자 있어서 외로웠어요.",
+        "rom": "?-JA- -?-EO-SEO- -?-RO-?-EO-YO-.",
+        "en": "I was lonely because I was alone.",
+        "category": "general"
+      },
+      {
+        "kr": "한국어로 말할 때 긴장돼요.",
+        "rom": "HAN-GUK-EO-RO- -MAL-?- -?- -?-JANG-?-YO-.",
+        "en": "I get nervous when I speak Korean.",
+        "category": "general"
+      },
+      {
+        "kr": "가족이 보고 싶을 때 전화해요.",
+        "rom": "GA-?-I- -BO-GO- -?-?- -?- -?-?-?-YO-.",
+        "en": "When I miss my family, I call them.",
+        "category": "general"
+      },
+      {
+        "kr": "기분이 나쁠 때 음악을 들어요.",
+        "rom": "GI-?-I- -NA-?- -?- -EUM-AK-?- -?-EO-YO-.",
+        "en": "When I'm in a bad mood, I listen to music.",
+        "category": "general"
+      },
+      {
+        "kr": "한국에서 새로운 감정을 느끼고 싶어요.",
+        "rom": "HAN-GUK-?-SEO- -?-RO-UN- -?-?-?- -NEU-?-GO- -?-EO-YO-.",
+        "en": "I want to feel new emotions in Korea.",
+        "category": "general"
+      },
+      {
+        "kr": "한국 친구를 사귀고 싶어요.",
+        "rom": "HAN-GUK- -CHIN-GU-?- -SA-?-GO- -?-EO-YO-.",
+        "en": "I want to make Korean friends.",
+        "category": "general"
+      },
+      {
+        "kr": "걱정하지 않고 싶어요.",
+        "rom": "?-?-HA-JI- -?-GO- -?-EO-YO-.",
+        "en": "I want to stop worrying.",
+        "category": "general"
+      },
+      {
+        "kr": "기분이 좋으면 웃어요.",
+        "rom": "GI-?-I- -?-EU-?- -?-EO-YO-.",
+        "en": "If I'm in a good mood, I smile.",
+        "category": "general"
+      },
+      {
+        "kr": "혼자 있으면 외로울 수 있어요.",
+        "rom": "?-JA- -?-EU-?- -?-RO-?- -SU- -?-EO-YO-.",
+        "en": "If you're alone, you can feel lonely.",
+        "category": "general"
+      },
+      {
+        "kr": "한국에 가면 너무 설렐 거예요.",
+        "rom": "HAN-GUK-?- -GA-?- -NEO-MU- -?-?- -GEO-YE-YO-.",
+        "en": "If I go to Korea, I'll be so excited.",
+        "category": "general"
+      },
+      {
+        "kr": "한국 여행이 너무 설레요!",
+        "rom": "HAN-GUK- -YEO-?-I- -NEO-MU- -?-RE-YO-!",
+        "en": "The Korea trip is so exciting!",
+        "category": "general"
+      },
+      {
+        "kr": "감사해서 너무 행복했어요.",
+        "rom": "?-SA-?-SEO- -NEO-MU- -?-?-?-EO-YO-.",
+        "en": "I was so happy because I was grateful.",
+        "category": "general"
+      },
+      {
+        "kr": "걱정하지 마세요.",
+        "rom": "?-?-HA-JI- -MA-SE-YO-.",
+        "en": "Please don't worry.",
+        "category": "general"
+      },
+      {
+        "kr": "울지 마세요.",
+        "rom": "?-JI- -MA-SE-YO-.",
+        "en": "Please don't cry.",
+        "category": "general"
+      },
+      {
+        "kr": "화내지 마세요.",
+        "rom": "?-NAE-JI- -MA-SE-YO-.",
+        "en": "Please don't get angry.",
+        "category": "general"
+      }
+    ],
+    "verbs": [
+      {
+        "id": "gada",
+        "en": "go",
+        "objectTypes": [],
+        "placeParticle": "e",
+        "past": "갔어요",
+        "pastRom": "GA-SSEO-YO",
+        "pastEn": "went",
+        "present": "가요",
+        "presentRom": "GA-YO",
+        "presentEn": "go",
+        "future": "갈 거예요",
+        "futureRom": "GAL GGEO-YE-YO",
+        "futureEn": "will go"
+      },
+      {
+        "id": "meokda",
+        "en": "eat",
+        "objectTypes": [
+          "food"
+        ],
+        "placeParticle": "eseo",
+        "past": "먹었어요",
+        "pastRom": "MEO-GEO-SSEO-YO",
+        "pastEn": "ate",
+        "present": "먹어요",
+        "presentRom": "MEO-GEO-YO",
+        "presentEn": "eat",
+        "future": "먹을 거예요",
+        "futureRom": "MEO-GEUL GGEO-YE-YO",
+        "futureEn": "will eat"
+      },
+      {
+        "id": "masida",
+        "en": "drink",
+        "objectTypes": [
+          "drink"
+        ],
+        "placeParticle": "eseo",
+        "past": "마셨어요",
+        "pastRom": "MA-SYEO-SSEO-YO",
+        "pastEn": "drank",
+        "present": "마셔요",
+        "presentRom": "MA-SYEO-YO",
+        "presentEn": "drink",
+        "future": "마실 거예요",
+        "futureRom": "MA-SIL GGEO-YE-YO",
+        "futureEn": "will drink"
+      },
+      {
+        "id": "sada",
+        "en": "buy",
+        "objectTypes": [
+          "food",
+          "drink"
+        ],
+        "placeParticle": "eseo",
+        "past": "샀어요",
+        "pastRom": "SA-SSEO-YO",
+        "pastEn": "bought",
+        "present": "사요",
+        "presentRom": "SA-YO",
+        "presentEn": "buy",
+        "future": "살 거예요",
+        "futureRom": "SAL GGEO-YE-YO",
+        "futureEn": "will buy"
+      },
+      {
+        "id": "mannada",
+        "en": "meet",
+        "objectTypes": [
+          "person"
+        ],
+        "placeParticle": "eseo",
+        "past": "만났어요",
+        "pastRom": "MAN-NA-SSEO-YO",
+        "pastEn": "met",
+        "present": "만나요",
+        "presentRom": "MAN-NA-YO",
+        "presentEn": "meet",
+        "future": "만날 거예요",
+        "futureRom": "MAN-NAL GGEO-YE-YO",
+        "futureEn": "will meet"
+      },
+      {
+        "id": "gongbuhada",
+        "en": "study",
+        "objectTypes": [],
+        "placeParticle": "eseo",
+        "past": "공부했어요",
+        "pastRom": "GONG-BU-HAE-SSEO-YO",
+        "pastEn": "studied",
+        "present": "공부해요",
+        "presentRom": "GONG-BU-HAE-YO",
+        "presentEn": "study",
+        "future": "공부할 거예요",
+        "futureRom": "GONG-BU-HAL GGEO-YE-YO",
+        "futureEn": "will study"
+      },
+      {
+        "id": "ilhada",
+        "en": "work",
+        "objectTypes": [],
+        "placeParticle": "eseo",
+        "past": "일했어요",
+        "pastRom": "IL-HAE-SSEO-YO",
+        "pastEn": "worked",
+        "present": "일해요",
+        "presentRom": "IL-HAE-YO",
+        "presentEn": "work",
+        "future": "일할 거예요",
+        "futureRom": "IL-HAL GGEO-YE-YO",
+        "futureEn": "will work"
+      },
+      {
+        "id": "mandulda",
+        "en": "make",
+        "objectTypes": [
+          "food"
+        ],
+        "placeParticle": "eseo",
+        "past": "만들었어요",
+        "pastRom": "MAN-DEU-REO-SSEO-YO",
+        "pastEn": "made",
+        "present": "만들어요",
+        "presentRom": "MAN-DEU-REO-YO",
+        "presentEn": "make",
+        "future": "만들 거예요",
+        "futureRom": "MAN-DEUL GGEO-YE-YO",
+        "futureEn": "will make"
+      },
+      {
+        "id": "ilkda",
+        "en": "read",
+        "objectTypes": [
+          "thing"
+        ],
+        "placeParticle": "eseo",
+        "past": "읽었어요",
+        "pastRom": "IL-GEO-SSEO-YO",
+        "pastEn": "read",
+        "present": "읽어요",
+        "presentRom": "IL-GEO-YO",
+        "presentEn": "read",
+        "future": "읽을 거예요",
+        "futureRom": "IL-GEUL GGEO-YE-YO",
+        "futureEn": "will read"
+      },
+      {
+        "id": "oda",
+        "en": "come",
+        "objectTypes": [],
+        "placeParticle": "e",
+        "past": "왔어요",
+        "pastRom": "WA-SSEO-YO",
+        "pastEn": "came",
+        "present": "와요",
+        "presentRom": "WA-YO",
+        "presentEn": "come",
+        "future": "올 거예요",
+        "futureRom": "OL GGEO-YE-YO",
+        "futureEn": "will come"
+      },
+      {
+        "id": "boda",
+        "en": "watch/see",
+        "objectTypes": [
+          "thing"
+        ],
+        "placeParticle": "eseo",
+        "past": "봤어요",
+        "pastRom": "BWA-SSEO-YO",
+        "pastEn": "watched",
+        "present": "봐요",
+        "presentRom": "BWA-YO",
+        "presentEn": "watch",
+        "future": "볼 거예요",
+        "futureRom": "BOL GGEO-YE-YO",
+        "futureEn": "will watch"
+      },
+      {
+        "id": "jada",
+        "en": "sleep",
+        "objectTypes": [],
+        "placeParticle": "eseo",
+        "present": "자요",
+        "presentRom": "JA-YO",
+        "presentEn": "sleep",
+        "past": "잤어요",
+        "pastRom": "JA-SSEO-YO",
+        "pastEn": "slept",
+        "future": "잘 거예요",
+        "futureRom": "JAL GGEO-YE-YO",
+        "futureEn": "will sleep"
+      },
+      {
+        "id": "hada",
+        "en": "do",
+        "objectTypes": [
+          "thing"
+        ],
+        "placeParticle": "eseo",
+        "present": "해요",
+        "presentRom": "HAE-YO",
+        "presentEn": "do",
+        "past": "했어요",
+        "pastRom": "HAE-SSEO-YO",
+        "pastEn": "did",
+        "future": "할 거예요",
+        "futureRom": "HAL GGEO-YE-YO",
+        "futureEn": "will do"
+      },
+      {
+        "id": "joahada",
+        "en": "like",
+        "objectTypes": [
+          "food",
+          "drink",
+          "thing",
+          "person"
+        ],
+        "placeParticle": "eseo",
+        "past": "좋아했어요",
+        "pastRom": "JO-A-HAE-SSEO-YO",
+        "pastEn": "liked",
+        "present": "좋아해요",
+        "presentRom": "JO-A-HAE-YO",
+        "presentEn": "like",
+        "future": "좋아할 거예요",
+        "futureRom": "JO-A-HAL GGEO-YE-YO",
+        "futureEn": "will like"
+      },
+      {
+        "id": "tada",
+        "en": "ride",
+        "objectTypes": [
+          "thing"
+        ],
+        "placeParticle": "eseo",
+        "past": "탔어요",
+        "pastRom": "TA-SSEO-YO",
+        "pastEn": "rode",
+        "present": "타요",
+        "presentRom": "TA-YO",
+        "presentEn": "ride",
+        "future": "탈 거예요",
+        "futureRom": "TAL GGEO-YE-YO",
+        "futureEn": "will ride"
+      },
+      {
+        "id": "swida",
+        "en": "rest",
+        "objectTypes": [],
+        "placeParticle": "eseo",
+        "past": "쉬었어요",
+        "pastRom": "SWI-EO-SSEO-YO",
+        "pastEn": "rested",
+        "present": "쉬어요",
+        "presentRom": "SWI-EO-YO",
+        "presentEn": "rest",
+        "future": "쉴 거예요",
+        "futureRom": "SWIL GGEO-YE-YO",
+        "futureEn": "will rest"
+      },
+      {
+        "id": "anda",
+        "en": "sit",
+        "objectTypes": [],
+        "placeParticle": "e",
+        "past": "앉았어요",
+        "pastRom": "AN-JA-SSEO-YO",
+        "pastEn": "sat",
+        "present": "앉아요",
+        "presentRom": "AN-JA-YO",
+        "presentEn": "sit",
+        "future": "앉을 거예요",
+        "futureRom": "AN-JEUL GGEO-YE-YO",
+        "futureEn": "will sit"
+      },
+      {
+        "id": "undonghada",
+        "en": "exercise",
+        "objectTypes": [],
+        "placeParticle": "eseo",
+        "past": "운동했어요",
+        "pastRom": "UN-DONG-HAE-SSEO-YO",
+        "pastEn": "exercised",
+        "present": "운동해요",
+        "presentRom": "UN-DONG-HAE-YO",
+        "presentEn": "exercise",
+        "future": "운동할 거예요",
+        "futureRom": "UN-DONG-HAL GGEO-YE-YO",
+        "futureEn": "will exercise"
+      },
+      {
+        "id": "yorihada",
+        "en": "cook",
+        "objectTypes": [
+          "food"
+        ],
+        "placeParticle": "eseo",
+        "past": "요리했어요",
+        "pastRom": "YO-RI-HAE-SSEO-YO",
+        "pastEn": "cooked",
+        "present": "요리해요",
+        "presentRom": "YO-RI-HAE-YO",
+        "presentEn": "cook",
+        "future": "요리할 거예요",
+        "futureRom": "YO-RI-HAL GGEO-YE-YO",
+        "futureEn": "will cook"
+      },
+      {
+        "id": "deutda",
+        "en": "listen",
+        "objectTypes": [
+          "thing"
+        ],
+        "placeParticle": "eseo",
+        "past": "들었어요",
+        "pastRom": "DEU-REO-SSEO-YO",
+        "pastEn": "listened",
+        "present": "들어요",
+        "presentRom": "DEU-REO-YO",
+        "presentEn": "listen",
+        "future": "들을 거예요",
+        "futureRom": "DEU-REUL GGEO-YE-YO",
+        "futureEn": "will listen"
+      },
+      {
+        "id": "sseuda",
+        "en": "write/use",
+        "objectTypes": [
+          "thing"
+        ],
+        "placeParticle": "eseo",
+        "past": "썼어요",
+        "pastRom": "SSEO-SSEO-YO",
+        "pastEn": "wrote",
+        "present": "써요",
+        "presentRom": "SSEO-YO",
+        "presentEn": "write",
+        "future": "쓸 거예요",
+        "futureRom": "SSEUL GGEO-YE-YO",
+        "futureEn": "will write"
+      },
+      {
+        "id": "malhada",
+        "en": "speak/say",
+        "objectTypes": [],
+        "placeParticle": "eseo",
+        "past": "말했어요",
+        "pastRom": "MAL-HAE-SSEO-YO",
+        "pastEn": "said",
+        "present": "말해요",
+        "presentRom": "MAL-HAE-YO",
+        "presentEn": "say",
+        "future": "말할 거예요",
+        "futureRom": "MAL-HAL GGEO-YE-YO",
+        "futureEn": "will say"
+      },
+      {
+        "id": "geotda",
+        "en": "walk",
+        "objectTypes": [],
+        "placeParticle": "eseo",
+        "past": "걸었어요",
+        "pastRom": "GEO-REO-SSEO-YO",
+        "pastEn": "walked",
+        "present": "걸어요",
+        "presentRom": "GEO-REO-YO",
+        "presentEn": "walk",
+        "future": "걸을 거예요",
+        "futureRom": "GEO-REUL GGEO-YE-YO",
+        "futureEn": "will walk"
+      },
+      {
+        "id": "itda",
+        "en": "have/exist",
+        "objectTypes": [
+          "thing"
+        ],
+        "placeParticle": "e",
+        "past": "있었어요",
+        "pastRom": "I-SSEO-SSEO-YO",
+        "pastEn": "had",
+        "present": "있어요",
+        "presentRom": "I-SSEO-YO",
+        "presentEn": "have",
+        "future": "있을 거예요",
+        "futureRom": "I-SSEUL GGEO-YE-YO",
+        "futureEn": "will have"
+      },
+      {
+        "id": "eopda",
+        "en": "not have/not exist",
+        "objectTypes": [],
+        "placeParticle": "e",
+        "past": "없었어요",
+        "pastRom": "EOP-SEO-SSEO-YO",
+        "pastEn": "did not have",
+        "present": "없어요",
+        "presentRom": "EOP-SEO-YO",
+        "presentEn": "do not have",
+        "future": "없을 거예요",
+        "futureRom": "EOP-SEUL GGEO-YE-YO",
+        "futureEn": "will not have"
+      },
+      {
+        "id": "alda",
+        "en": "know",
+        "objectTypes": [
+          "thing"
+        ],
+        "placeParticle": "eseo",
+        "past": "알았어요",
+        "pastRom": "AL-A-SSEO-YO",
+        "pastEn": "knew",
+        "present": "알아요",
+        "presentRom": "AL-A-YO",
+        "presentEn": "know",
+        "future": "알 거예요",
+        "futureRom": "AL GGEO-YE-YO",
+        "futureEn": "will know"
+      },
+      {
+        "id": "moreuda",
+        "en": "not know",
+        "objectTypes": [
+          "thing"
+        ],
+        "placeParticle": "eseo",
+        "past": "몰랐어요",
+        "pastRom": "MOL-LA-SSEO-YO",
+        "pastEn": "did not know",
+        "present": "몰라요",
+        "presentRom": "MOL-LA-YO",
+        "presentEn": "do not know",
+        "future": "모를 거예요",
+        "futureRom": "MO-REUL GGEO-YE-YO",
+        "futureEn": "will not know"
+      },
+      {
+        "id": "salda",
+        "en": "live",
+        "objectTypes": [],
+        "placeParticle": "e",
+        "past": "살았어요",
+        "pastRom": "SAL-A-SSEO-YO",
+        "pastEn": "lived",
+        "present": "살아요",
+        "presentRom": "SAL-A-YO",
+        "presentEn": "live",
+        "future": "살 거예요",
+        "futureRom": "SAL GGEO-YE-YO",
+        "futureEn": "will live"
+      },
+      {
+        "id": "jeonhwahada",
+        "en": "call",
+        "objectTypes": [
+          "person"
+        ],
+        "placeParticle": "eseo",
+        "past": "전화했어요",
+        "pastRom": "JEON-HWA-HAE-SSEO-YO",
+        "pastEn": "called",
+        "present": "전화해요",
+        "presentRom": "JEON-HWA-HAE-YO",
+        "presentEn": "call",
+        "future": "전화할 거예요",
+        "futureRom": "JEON-HWA-HAL GGEO-YE-YO",
+        "futureEn": "will call"
+      },
+      {
+        "id": "ireonada",
+        "en": "get up/wake up",
+        "objectTypes": [],
+        "placeParticle": "eseo",
+        "past": "일어났어요",
+        "pastRom": "IR-EO-NA-SSEO-YO",
+        "pastEn": "got up",
+        "present": "일어나요",
+        "presentRom": "IR-EO-NA-YO",
+        "presentEn": "get up",
+        "future": "일어날 거예요",
+        "futureRom": "IR-EO-NAL GGEO-YE-YO",
+        "futureEn": "will get up"
+      },
+      {
+        "id": "ssitda",
+        "en": "wash",
+        "objectTypes": [],
+        "placeParticle": "eseo",
+        "past": "씻었어요",
+        "pastRom": "SSI-SEO-SSEO-YO",
+        "pastEn": "washed",
+        "present": "씻어요",
+        "presentRom": "SSI-SEO-YO",
+        "presentEn": "wash",
+        "future": "씻을 거예요",
+        "futureRom": "SSI-SEUL GGEO-YE-YO",
+        "futureEn": "will wash"
+      },
+      {
+        "id": "juda",
+        "en": "give",
+        "objectTypes": [
+          "drink",
+          "thing"
+        ],
+        "placeParticle": "eseo",
+        "present": "줘요",
+        "presentRom": "JWEO-YO",
+        "presentEn": "give",
+        "past": "줬어요",
+        "pastRom": "JWEOSS-EO-YO",
+        "pastEn": "gave",
+        "future": "줄 거예요",
+        "futureRom": "JUL GGEO-YE-YO",
+        "futureEn": "will give"
+      }
+    ]
+  },
+  "describe": {
+    "subjects": [
+      {
+        "kr": "저는",
+        "rom": "JEO-NEUN",
+        "en": "I"
+      }
+    ],
+    "adjectives": [
+      {
+        "kr": "바쁘다",
+        "rom": "BA-?-DA",
+        "en": "to be busy"
+      },
+      {
+        "kr": "피곤하다",
+        "rom": "PI-?-HA-DA",
+        "en": "to be tired"
+      },
+      {
+        "kr": "재미있다",
+        "rom": "?-MI-?-DA",
+        "en": "to be fun / interesting"
+      },
+      {
+        "kr": "어렵다",
+        "rom": "EO-?-DA",
+        "en": "to be difficult"
+      },
+      {
+        "kr": "쉽다",
+        "rom": "?-DA",
+        "en": "to be easy"
+      },
+      {
+        "kr": "중요하다",
+        "rom": "?-YO-HA-DA",
+        "en": "to be important"
+      },
+      {
+        "kr": "놀라다",
+        "rom": "?-RA-DA",
+        "en": "to be surprised"
+      },
+      {
+        "kr": "행복하다",
+        "rom": "?-?-HA-DA",
+        "en": "to be happy"
+      },
+      {
+        "kr": "슬프다",
+        "rom": "?-?-DA",
+        "en": "to be sad"
+      },
+      {
+        "kr": "화가 나다",
+        "rom": "?-GA- -NA-DA",
+        "en": "to be angry"
+      },
+      {
+        "kr": "무섭다",
+        "rom": "MU-?-DA",
+        "en": "to be scared / afraid"
+      },
+      {
+        "kr": "외롭다",
+        "rom": "?-?-DA",
+        "en": "to be lonely"
+      },
+      {
+        "kr": "지루하다",
+        "rom": "JI-RU-HA-DA",
+        "en": "to be bored"
+      },
+      {
+        "kr": "설레다",
+        "rom": "?-RE-DA",
+        "en": "to feel excited / to have butterflies"
+      },
+      {
+        "kr": "긴장되다",
+        "rom": "?-JANG-?-DA",
+        "en": "to be nervous"
+      },
+      {
+        "kr": "감사하다",
+        "rom": "?-SA-HA-DA",
+        "en": "to be grateful / thankful"
+      }
+    ],
+    "adverbs": [
+      {
+        "kr": "아주",
+        "rom": "A-JU",
+        "en": "very"
+      },
+      {
+        "kr": "정말",
+        "rom": "JEONG-MAL",
+        "en": "really"
+      },
+      {
+        "kr": "너무",
+        "rom": "NEO-MU",
+        "en": "too/very"
+      }
+    ]
+  },
+  "flashcards": {
+    "categories": {
+      "verb": [
+        {
+          "kr": "직원한테",
+          "rom": "?-WON-HAN-?",
+          "en": "to the staff member"
+        },
+        {
+          "kr": "청소하다",
+          "rom": "CHEONG-SO-HA-DA",
+          "en": "to clean"
+        },
+        {
+          "kr": "울다",
+          "rom": "?-DA",
+          "en": "to cry"
+        },
+        {
+          "kr": "웃다",
+          "rom": "?-DA",
+          "en": "to laugh"
+        },
+        {
+          "kr": "미소 짓다",
+          "rom": "MI-SO- -?-DA",
+          "en": "to smile"
+        },
+        {
+          "kr": "화내다",
+          "rom": "?-NAE-DA",
+          "en": "to get angry"
+        },
+        {
+          "kr": "걱정하다",
+          "rom": "?-?-HA-DA",
+          "en": "to worry"
+        },
+        {
+          "kr": "그리워하다",
+          "rom": "GEU-RI-WO-HA-DA",
+          "en": "to miss (someone/something)"
+        }
+      ],
+      "expression": [],
+      "general": [],
+      "food": [],
+      "drink": []
+    }
+  }
+}
