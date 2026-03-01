@@ -2301,53 +2301,52 @@
     ]
   },
   "flashcards": {
-    "categories": {
-      "verb": [
-        {
-          "kr": "직원한테",
-          "rom": "?-WON-HAN-?",
-          "en": "to the staff member"
-        },
-        {
-          "kr": "청소하다",
-          "rom": "CHEONG-SO-HA-DA",
-          "en": "to clean"
-        },
-        {
-          "kr": "울다",
-          "rom": "?-DA",
-          "en": "to cry"
-        },
-        {
-          "kr": "웃다",
-          "rom": "?-DA",
-          "en": "to laugh"
-        },
-        {
-          "kr": "미소 짓다",
-          "rom": "MI-SO- -?-DA",
-          "en": "to smile"
-        },
-        {
-          "kr": "화내다",
-          "rom": "?-NAE-DA",
-          "en": "to get angry"
-        },
-        {
-          "kr": "걱정하다",
-          "rom": "?-?-HA-DA",
-          "en": "to worry"
-        },
-        {
-          "kr": "그리워하다",
-          "rom": "GEU-RI-WO-HA-DA",
-          "en": "to miss (someone/something)"
-        }
-      ],
-      "expression": [],
-      "general": [],
-      "food": [],
-      "drink": []
-    }
+    "categories": [
+      {
+        "name": "verb",
+        "cards": [
+          {
+            "kr": "직원한테",
+            "rom": "?-WON-HAN-?",
+            "en": "to the staff member"
+          },
+          {
+            "kr": "청소하다",
+            "rom": "CHEONG-SO-HA-DA",
+            "en": "to clean"
+          },
+          {
+            "kr": "울다",
+            "rom": "?-DA",
+            "en": "to cry"
+          },
+          {
+            "kr": "웃다",
+            "rom": "?-DA",
+            "en": "to laugh"
+          },
+          {
+            "kr": "미소 짓다",
+            "rom": "MI-SO- -?-DA",
+            "en": "to smile"
+          },
+          {
+            "kr": "화내다",
+            "rom": "?-NAE-DA",
+            "en": "to get angry"
+          },
+          {
+            "kr": "걱정하다",
+            "rom": "?-?-HA-DA",
+            "en": "to worry"
+          },
+          {
+            "kr": "그리워하다",
+            "rom": "GEU-RI-WO-HA-DA",
+            "en": "to miss (someone/something)"
+          }
+        ]
+      }
+    ]
   }
 }
